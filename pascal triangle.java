@@ -15,3 +15,6 @@ class Solution{
     return result;
   }
 }
+//5 row 1 elem= 4 row ka 0 aur 1 elem
+//        2     =          1     2
+//        3     =          2     3
