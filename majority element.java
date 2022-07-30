@@ -18,7 +18,7 @@ class Solution {
         return result;
     }
 }
-
+// We can solve this question by Hashmap also.
 class Solution {
     public int majorityElement(int[] nums) {
          HashMap<Integer,Integer> map = new HashMap<>();
