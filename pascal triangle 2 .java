@@ -1,4 +1,4 @@
-//class Solution {
+class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> result = new ArrayList<Integer>();
         for (int i = 0;i < rowIndex + 1; i ++) {
