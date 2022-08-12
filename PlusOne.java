@@ -14,4 +14,4 @@ class Solution {
         newnum[0]=1;
         return newnum;
     }
-}
+}//
