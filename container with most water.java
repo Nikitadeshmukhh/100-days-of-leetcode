@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public int maxArea(int[] height) {
         int maximumArea = Integer.MIN_VALUE;
         int left = 0;
